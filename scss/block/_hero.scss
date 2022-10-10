@@ -1,0 +1,102 @@
+.site__hero {
+  padding-top: 146px;
+
+  justify-content: left;
+  background-image: url(../../img/hero__bg.png);
+  background-repeat: no-repeat;
+  background-position: 0 -92px;
+  margin-bottom: 191px;
+}
+.hero__content {
+  width: 608px;
+  margin-left: auto;
+  background-image: url(../../img/hero__bg2.png);
+  background-repeat: no-repeat;
+  background-position: 369px 234px;
+}
+.hero__content .hero__title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 64px;
+  color: #333333;
+  margin-bottom: 20px;
+}
+.hero__text-box {
+  padding-bottom: 290px;
+}
+.color__blue {
+  color: #78c0de;
+}
+.hero__text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: #949494;
+  margin-bottom: 38px;
+}
+.hero__link {
+  padding: 15px 48px 16px 47px;
+  background-color: #333333;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 21px;
+  border-radius: 3px;
+  color: #ffffff;
+  transition: 0.3s;
+}
+.hero__link:hover {
+  background: #ffbd54;
+  border-radius: 3px;
+  color: #333333;
+}
+.hero__link:active {
+  opacity: 0.6;
+}
+.hero__destcription {
+  margin-top: 21px;
+  text-align: center;
+  background-image: url(../../img/hero__description-bg.svg);
+  background-repeat: no-repeat;
+  background-position: 174px 0;
+}
+.hero__box {
+  background-image: url(../../img/hero__description-bg2.svg);
+  background-repeat: no-repeat;
+  background-position: 1174px 124px;
+}
+.hero__destcription-box {
+  width: 752px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 35px;
+}
+.hero__destcription-text {
+  padding-top: 43px;
+  padding-bottom: 43px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  text-align: center;
+  color: #949494;
+}
+.hero__line {
+  width: 140px;
+  height: 1px;
+  background-color: #949494;
+  display: block;
+  margin: 0 auto;
+}
+.hero__info {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  /* identical to box height */
+
+  color: #333333;
+}
