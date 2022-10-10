@@ -601,6 +601,7 @@ img {
 
 .log-in__content {
   padding: 90px 0 90px 215px;
+  margin-bottom: 216px;
 }
 
 .log-in__title {
@@ -698,4 +699,127 @@ img {
   position: absolute;
   top: -107px;
   right: 0;
+}
+
+.articles__item {
+  width: 305px;
+}
+
+.articles__item-link {
+  width: 250px;
+}
+
+.articles__item-link2 {
+  width: 250px;
+}
+
+.articles__item {
+  position: relative;
+  background: #ffffff;
+  border: 1px solid #e4e4e2;
+  border-radius: 5px;
+  padding: 201px 22px 36px;
+  height: 435px;
+}
+
+.articles__item-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.articles__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.articles__item2 {
+  background-color: #fff;
+  width: 605px;
+  padding: 41px 34px 37px 335px;
+  border: 1px solid #f3f3f3;
+  border-radius: 5px;
+  height: 435px;
+}
+
+.articles__item-img2 {
+  position: absolute;
+  left: 450px;
+  top: 0;
+}
+
+.articles__item-date {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  /* identical to box height */
+  color: #949494;
+  margin-bottom: 2px;
+  text-align: right;
+  height: 18px;
+}
+
+.articles__item-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 25px;
+  /* or 114% */
+  color: #000000;
+  margin-bottom: 13px;
+}
+
+.articles__item-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  /* or 125% */
+  color: #949494;
+  margin-bottom: 34px;
+}
+
+.articles__item-text {
+  margin-bottom: 28px;
+}
+
+.tags-box {
+  margin-bottom: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.hashtegs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.hashtegs-item {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  /* or 157% */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  color: #3d9cea;
+}
+
+.articles__item-text2 {
+  margin-bottom: 14px;
 }/*# sourceMappingURL=main.css.map */
